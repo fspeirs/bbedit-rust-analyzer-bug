@@ -1,4 +1,4 @@
-use bbedit_lib::{bbedit_do_thing, add};
+use bbedit_lib::add;
 
 fn main() {
 	let a = add(1, 2);
